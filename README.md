@@ -1,1 +1,1 @@
-<center><h3>GIT Training Camp ⚡</h3></center>
+<h3 align="center">GIT Training Camp ⚡</h3>
